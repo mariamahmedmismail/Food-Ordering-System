@@ -6,6 +6,7 @@ This project is a Food Ordering System that allows customers to register, manage
 This README explains the implemented functionalities for Customer and Feedback tables, focusing on insertion, deletion, and update operations with proper validation.
 
 🛠 Implemented Features
+
 1️⃣ Customer Table Operations
 🔹 Insert (Sign Up)
 
